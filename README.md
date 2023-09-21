@@ -1287,3 +1287,4 @@ At this moment I am focused on improving stability and adding new features to **
 * 1. rtc :
   2. h264 :
   3. h265 :
+  4. AAC:
